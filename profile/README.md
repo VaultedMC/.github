@@ -10,10 +10,7 @@ Vaulted is a custom-built Minecraft experience where players progress by unlocki
 
 This organization hosts the plugins and supporting tools that power the Vaulted server, including:
 
-- **VaultCore**: Core mechanics and player data management
-- **VaultItems**: Item generation, tiering, and modifier systems
-- **VaultMenu**: Custom GUIs and interaction logic
-- **VaultEnchants** *(if applicable)*: Enchantment and performance enhancer handling
+- **Keystone**: The core for the Vaulted server.
 
 ## 🛠 Tech Stack
 
