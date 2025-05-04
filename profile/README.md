@@ -10,7 +10,7 @@ Vaulted is a custom-built Minecraft experience where players progress by unlocki
 
 This organization hosts the plugins and supporting tools that power the Vaulted server, including:
 
-- **Keystone**: The core for the Vaulted server.
+- **Keystone**: The heart of Vaulted.
 
 ## 🛠 Tech Stack
 
