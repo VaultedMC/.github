@@ -21,7 +21,7 @@ This organization hosts the plugins and supporting tools that power the Vaulted 
 
 ## 🎮 Join Us
 
-🟣 **Server IP:** `vaulted-mc.net`  
+🟣 **Server IP:** `play.vaulted-mc.net`  
 🛍️ **Store:** [store.vaulted-mc.net](https://store.vaulted-mc.net)  
 💬 **Discord:** [discord.vaulted-mc.net](http://discord.vaulted-mc.net)
 
