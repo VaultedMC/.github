@@ -1,23 +1,24 @@
 # Vaulted
 
-Welcome to the official GitHub organization for **Vaulted**, an innovative Minecraft server that redefines idle-based progression and collection mechanics.
+Welcome to the official GitHub organization for **Vaulted**, a progression-focused Minecraft server that blends RPG mechanics, item collection, and competitive play.
 
 ## 🌌 About Vaulted
 
-Vaulted is a custom-built Minecraft experience where players progress by unlocking, upgrading, and collecting unique items through idle mechanics and rolling systems. The core gameplay revolves around managing your own vault, earning loot, and climbing leaderboards — all while enjoying a sleek, non-pay-to-win environment.
+Vaulted is a custom Minecraft experience where players progress by unlocking, upgrading, and collecting unique items through rolling systems and progression-based gameplay. The core loop centers around opening the Vault, earning powerful items, and levelling up. All in a sleek, non-pay-to-win environment.
 
 ## 📦 Repositories
 
 This organization hosts the plugins and supporting tools that power the Vaulted server, including:
 
-- **Keystone**: The heart of Vaulted.
+- **Keystone**: The central framework of Vaulted.
+- [**VaultedItemFlex**](https://github.com/VaultedMC/VaultedItemFlex): The plugin that handles /flex on the server.
 
 ## 🛠 Tech Stack
 
 - Java 21
 - Paper
 - Maven
-- BitByLogic's Libraries (Bit's ORM, Bit's Utils, Bit's Menus...)
+- BitByLogic’s Libraries (Bit’s ORM, Bit’s Utils, Bit’s Menus, etc.)
 
 ## 🎮 Join Us
 
@@ -31,4 +32,4 @@ Each repository may have its own license. Please refer to the individual `LICENS
 
 ---
 
-> Built with care, balance, and creativity to keep players engaged — even when they're not online.
+> Built with ❤️
