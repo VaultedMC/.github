@@ -1,17 +1,17 @@
 # Vaulted
 
-Welcome to the official GitHub organization for **Vaulted**, a progression-focused Minecraft server that blends RPG mechanics, item collection, and competitive play.
+Welcome to the official GitHub organization for **Vaulted**, the home of **Tidebound**, a progression-focused Minecraft skyblock server with solo island gameplay, cozy progression, and RPG-inspired mechanics.
 
-## 🌌 About Vaulted
+## 🌊 About Tidebound
 
-Vaulted is a custom Minecraft experience where players progress by unlocking, upgrading, and collecting unique items through rolling systems and progression-based gameplay. The core loop centers around opening the Vault, earning powerful items, and levelling up. All in a sleek, non-pay-to-win environment.
+Tidebound is a unique Minecraft skyblock experience where players grow their island, collect resources, complete quests, and relax during their stay on their own cozy island. The core loop centers around gathering resources, crafting, and advancing your island while enjoying a relaxed but rewarding progression system.
 
 ## 📦 Repositories
 
-This organization hosts the plugins and supporting tools that power the Vaulted server, including:
+This organization hosts the plugins and supporting tools that power Vaulted, including Tidebound:
 
-- **Keystone**: The central framework of Vaulted.
-- [**VaultedItemFlex**](https://github.com/VaultedMC/VaultedItemFlex): The plugin that handles /flex on the server.
+- **Tidebound**: The core and central framework for the Tidebound gamemode.
+- [**VaultedItemFlex**](https://github.com/VaultedMC/VaultedItemFlex): A relic of the past VaultedMC gamemode, a cool item showcase plugin.
 
 ## 🛠 Tech Stack
 
